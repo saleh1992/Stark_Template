@@ -164,7 +164,7 @@ Header nav ul {
     background-color: #00000075;
     width: 100%;
     padding: 0;
-    top: 81px;
+    top: 64px;
     margin: 0;
     left: 0;
   }
@@ -184,7 +184,7 @@ nav ul li a:hover {
   transition: 0.3s;
 }
 .fa-bars {
-  display: none !important;
+  display: none ;
 }
 Header .fa-bars:hover ~ nav {
   display: flex;
