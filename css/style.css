@@ -872,7 +872,7 @@ Header .fa-bars:hover ~ nav {
 }
 .our-team .team-container {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(272px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
   gap: 30px;
   align-items: center;
 }
@@ -990,7 +990,7 @@ Header .fa-bars:hover ~ nav {
 }
 .blog .blog-container {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(348px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(296px, 1fr));
   gap: 25px;
   color: #333333;
 }
