@@ -872,7 +872,7 @@ Header .fa-bars:hover ~ nav {
 }
 .our-team .team-container {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(212px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(272px, 1fr));
   gap: 30px;
   align-items: center;
 }
@@ -990,7 +990,7 @@ Header .fa-bars:hover ~ nav {
 }
 .blog .blog-container {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(288px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(348px, 1fr));
   gap: 25px;
   color: #333333;
 }
@@ -998,8 +998,7 @@ Header .fa-bars:hover ~ nav {
   box-shadow: 0 0 10px rgba(57, 59, 102, 0.07);
 }
 .blog .blog-container .blog-img {
-  max-width: 360px;
-  height: 240px;
+  max-width: 100%;
 }
 .blog .blog-container .blog-img img {
   width: 100%;
